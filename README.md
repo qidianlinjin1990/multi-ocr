@@ -35,4 +35,10 @@ Multi OCR 目前尚未上架 Obsidian 社区插件商店，请按照以下步骤
 
 致敬
 
-感谢下面两个项目提供的灵感来源https://github.com/jritzi/ocr-extractor和https://github.com/rootiest/obsidian-ai-image-ocr，没有这两个项目就没有这个灵感。
+感谢下面两个项目提供的灵感来源：
+
+https://github.com/jritzi/ocr-extractor
+
+https://github.com/rootiest/obsidian-ai-image-ocr
+
+没有这两个项目就没有这个项目。
