@@ -33,6 +33,20 @@ Multi OCR 目前尚未上架 Obsidian 社区插件商店，请按照以下步骤
 
 在插件设置中配置你的相关设置
 
+注意事项
+
+AI OCR只支持图片的ocr，本地和url都可以。
+
+TextIn支持图片和pdf的ocr，本地和url都可以。
+
+Paddle OCR-VL支持图片和pdf的ocr，本地和url都可以。
+
+Mistral OCR支持图片和pdf的ocr，本地和url都可以。
+
+MinerU支持图片和pdf的ocr，暂时只支持url。
+
+url需要带jpg或pdf的长链。
+
 致敬
 
 感谢下面两个项目提供的灵感来源：
