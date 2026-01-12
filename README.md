@@ -14,3 +14,25 @@
 ![1000179071](https://github.com/user-attachments/assets/e5def192-21d9-41f1-bd0e-2c3157fa87f7)
 ![1000179070](https://github.com/user-attachments/assets/3eae8c48-6764-4280-a06c-5ff6bacf8b0f)
 ![1000179069](https://github.com/user-attachments/assets/40838e27-4c76-466d-957e-ba5152f39daa)
+
+开始使用
+
+Multi OCR 目前尚未上架 Obsidian 社区插件商店，请按照以下步骤手动安装。
+
+手动安装
+
+前往 Releases 页面下载最新版本的zip
+
+在你的 Vault 插件目录下创建文件夹：<vault>/.obsidian/plugins/obsidian-multi-ocr/
+
+将下载的文件解压缩复制到该文件夹中
+
+打开 Obsidian 设置 → 社区插件
+
+在插件列表中启用 "Multi OCR"
+
+在插件设置中配置你的相关设置
+
+致敬
+
+感谢下面两个项目提供的灵感来源https://github.com/jritzi/ocr-extractor和https://github.com/rootiest/obsidian-ai-image-ocr，没有这两个项目就没有这个灵感。
