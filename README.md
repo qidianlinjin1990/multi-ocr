@@ -39,13 +39,15 @@ AI OCR只支持图片的ocr，本地和url都可以。
 
 TextIn支持图片和pdf的ocr，本地和url都可以。
 
-Paddle OCR-VL支持图片和pdf的ocr，本地和url都可以。
-
 Mistral OCR支持图片和pdf的ocr，本地和url都可以。
+
+Paddle OCR-VL支持图片和pdf的ocr，暂时只支持本地。
 
 MinerU支持图片和pdf的ocr，暂时只支持url。
 
-url需要带jpg或pdf的长链。
+更多支持的格式，以各个ocr服务商官网为准。
+
+url建议带jpg或pdf的长链。
 
 致敬
 
