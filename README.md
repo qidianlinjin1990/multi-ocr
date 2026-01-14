@@ -3,7 +3,7 @@
 
 支持添加多个AI供应商和自动抓取所有模型并进行选择，方便添加，自定义提示词，自定义json参数。
 
-支持四大OCR服务商，包括MinerU、TextIn、Paddle OCR-VL和Mistral OCR。支持OCR服务商OCR参数设置
+支持五大OCR服务商，包括PDF Craft、MinerU、TextIn、Paddle OCR-VL和Mistral OCR。支持OCR服务商OCR参数设置
 
 支持Obsidian笔记扫描提取所有可以ocr的文件进行选择，支持本地其他文件夹文件的选择，支持单独粘贴url。
 
@@ -37,13 +37,15 @@ Multi OCR 目前尚未上架 Obsidian 社区插件商店，请按照以下步骤
 
 AI OCR只支持图片的ocr，本地和url都可以。
 
+PDF Craft只支持pdf的ocr，只支持url。
+
 TextIn支持图片和pdf的ocr，本地和url都可以。
 
 Mistral OCR支持图片和pdf的ocr，本地和url都可以。
 
-Paddle OCR-VL支持图片和pdf的ocr，暂时只支持本地。
+Paddle OCR-VL支持图片和pdf的ocr，只支持本地。
 
-MinerU支持图片和pdf的ocr，暂时只支持url。
+MinerU支持图片和pdf的ocr，只支持url。
 
 更多支持的格式，以各个ocr服务商官网为准。
 
