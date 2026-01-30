@@ -35,9 +35,11 @@ Multi OCR 目前尚未上架 Obsidian 社区插件商店，请按照以下步骤
 
 注意事项
 
-AI OCR只支持图片的ocr，本地和url都可以。
+AI OCR支持图片的ocr，对pdf的支持根据模型来判断，比如DeepSeek-OCR支持pdf，本地和url都可以。
 
 PDF Craft只支持pdf的ocr，只支持url。
+
+Gitee AI模型选择HuanyuanOCR只支持图片的ocr，本地和url都可以。
 
 TextIn支持图片和pdf的ocr，本地和url都可以。
 
