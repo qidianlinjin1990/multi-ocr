@@ -3,7 +3,7 @@
 
 支持添加多个AI供应商和自动抓取所有模型并进行选择或者自己添加模型，自定义提示词，自定义json参数。
 
-支持六大OCR服务商，包括PDF Craft、MinerU、TextIn、Paddle OCR-VL、Mistral OCR和Gitee AI的HunyuanOCR。支持OCR服务商OCR参数设置。
+支持七大OCR服务商，包括PDF Craft、MinerU、TextIn、Paddle OCR-VL、Mistral OCR、Gitee AI的HunyuanOCR和GLM OCR。支持OCR服务商OCR参数设置。
 
 支持本地其他文件夹文件的选择，支持单独粘贴url。
 
@@ -40,6 +40,8 @@ AI OCR只支持图片的ocr，本地和url都可以。
 PDF Craft只支持pdf的ocr，只支持url。
 
 Gitee AI模型选择HuanyuanOCR只支持图片的ocr，本地和url都可以。
+
+GLM OCR支持图片和pdf的ocr，本地和url都可以。
 
 TextIn支持图片和pdf的ocr，本地和url都可以。
 
